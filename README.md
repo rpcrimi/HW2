@@ -14,3 +14,9 @@ commit 2
 - git add .
 - git commit -m "commit 2"
 - git push origin master
+
+commit 10
+- git checkout master
+- git add .
+- git commit -m "commit 10"
+- git push origin master
