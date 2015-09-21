@@ -82,3 +82,8 @@ commit 13
 - git add .
 - git commit -m "commit 13"
 - git merge bug-fix
+
+commit 14
+- git add .
+- git commit -m "commit 14"
+- git push origin master
