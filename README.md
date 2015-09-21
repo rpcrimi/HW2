@@ -1,6 +1,6 @@
-CSCI 5828 - Spring 2015
-Homework 2
-Robert Crimi
+# CSCI 5828 - Spring 2015
+# Homework 2
+# Robert Crimi
 
 commit 0
 - git init
@@ -95,4 +95,9 @@ commit 14
 commit 15 (forgot to add header)
 - git add .
 - git commit -m "commit 15"
+- git push origin master
+
+commit 16 (fixed formatting...OOPS!)
+- git add .
+- git commit -m "commit 16"
 - git push origin master
