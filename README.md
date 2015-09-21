@@ -16,3 +16,10 @@ commit 4
 - git add .
 - git commit -m "commit 4"
 - git push origin bug-fix
+
+commit 7
+- git checkout 1b6e326
+- git checkout -b bug-fix-experimental
+- git add .
+- git commit -m "commit 7"
+- git push origin bug-fix-experimental
