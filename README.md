@@ -38,3 +38,28 @@ commit 6
 - git add .
 - git commit -m "commit 6"
 - git push origin bug-fix
+
+commit 7
+- git checkout 1b6e326
+- git checkout -b bug-fix-experimental
+- git add .
+- git commit -m "commit 7"
+- git push origin bug-fix-experimental
+
+commit 8
+- git add .
+- git commit -m "commit 8"
+- git push origin bug-fix-experimental
+
+commit 9
+- git add .
+- git commit -m "commit 9"
+- git push origin bug-fix-experimental
+
+commit 11
+- git checkout bug-fix
+- git merge bug-fix-experimental
+- FIXED MERGE CONFLICTS
+- git add .
+- git commit -m "commit 11"
+- git merge bug-fix-experimetal
