@@ -23,3 +23,8 @@ commit 7
 - git add .
 - git commit -m "commit 7"
 - git push origin bug-fix-experimental
+
+commit 8
+- git add .
+- git commit -m "commit 8"
+- git push origin bug-fix
