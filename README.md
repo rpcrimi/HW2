@@ -26,3 +26,15 @@ commit 4
 - git add .
 - git commit -m "commit 4"
 - git push origin bug-fix
+
+commit 5
+- git merge master
+- FIXED MERGE CONFLICTS
+- git add .
+- git commit -m "commit 5"
+- git merge master
+
+commit 6
+- git add .
+- git commit -m "commit 6"
+- git push origin bug-fix
