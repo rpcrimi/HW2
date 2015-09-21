@@ -63,3 +63,8 @@ commit 11
 - git add .
 - git commit -m "commit 11"
 - git merge bug-fix-experimetal
+
+commit 12
+- git add .
+- git commit -m "commit 12"
+- git push origin bug-fix
